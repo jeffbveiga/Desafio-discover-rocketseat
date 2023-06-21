@@ -1,15 +1,5 @@
-<h1 align="center"> Desafio-discover-rocketseat </h1>
+<h1 align="center"> Desafio discover rocketseat </h1>
 
-<p align="center">
-Projeto Final do curso Discover da rocketseat
-</p>
-
-<p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-link">Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
 
 
 <br>
@@ -29,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔖 Layout
 
 <p align="center">
-  <img alt="Foto do projeto" src=".github/preview.jpg" width="100%">
+  <img alt="Foto do projeto" src=".Github/preview.jpg" width="100%">
 </p>
 
 ## &#x1F517; Link:
